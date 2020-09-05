@@ -1,7 +1,6 @@
 # Week 1 Code + Words
+We started with an introduction to Codewords with Andy and Karen.
 
-
-## Virtual Worlds
 
 ### Mini Melbourne
 <img src="mindcraftmelbourne.png">`
