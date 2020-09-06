@@ -8,7 +8,7 @@ Due to this pandemic, we arent able to gather physically. However we discussed a
 
 <img src="mindcraftmelbourne.png">
 
-The virtual worlds opended many different possibilites on how our class would explore Brief 2. 
+The virtual worlds opended many different possibilites on how our class would explore Brief 2.
 
 
 
