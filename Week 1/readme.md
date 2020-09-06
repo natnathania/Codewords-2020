@@ -5,9 +5,10 @@ Andy and Karen introduced us to CodeWords and a brief background on what project
 
 ## Mini Melbourne
 Due to this pandemic, we arent able to gather physically. However we discussed and explored how we could meet in a virtual city of Melbourne. As a whole class, we entered Mini Melbourne in Minecraft and were able to build, walk, fly, and talk to each other. It was a fun activity to do to start the semester. 
+
 <img src="mindcraftmelbourne.png">
 
-
+The virtual worlds opended many different possibilites on how our class would explore Brief 2. 
 
 
 
