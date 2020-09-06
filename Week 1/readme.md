@@ -14,4 +14,4 @@ Due to this pandemic, we arent able to gather physically.
 
 
 
-<img src="initial N.JPG"> 
+<img src="initial N.JPG" width="600">
