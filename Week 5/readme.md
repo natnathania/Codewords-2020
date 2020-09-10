@@ -1,4 +1,4 @@
-## Week 5 | Grab Your Popcorn
+# Week 5 | Grab Your Popcorn
 It was show time for Brief 2
 
 ## Brief 3
