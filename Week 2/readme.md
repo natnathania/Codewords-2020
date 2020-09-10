@@ -8,7 +8,7 @@ As I scroll down and search for modular typefaces, I came across this piece of w
 
 
 ## Wholesome Animal Crossing
-<img src="Animalcrossing.gif" width = 300>
+<img src="Animalcrossing.gif">
 
 ## Remix
 collaborative p5.js
