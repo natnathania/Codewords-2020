@@ -16,4 +16,4 @@ Was super excited to do this project with a group of great talented students, an
 ## A Remix in p5.js
 As a homework we had the chance to choose another students initials that they made in p5.js and change/add anything we would like. I got to do Jamie's letter 'e' and made his background color change according the position of the mouse. I was pretty nervous on doing this because I am not confident with my coding skills. However, as everyone else shared I felt more comfortable and found this collaboration work to be great.
 
-<img src="jamie's p5js.JPG">
+<img src="jamie's p5js.JPG" width = 400>
