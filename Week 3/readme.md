@@ -6,7 +6,7 @@ To see our research on electronic literature click [here](https://docs.google.co
 ## AI Dungeon
 As a whole class we joined AI Dungeon which is a an infinitely generated text adventure powered by deep learning. It was my first time trying out this and it was pretty chaotic and I was impressed on how fast they generated texts. Most of the students had their own ideas of what story they wanted to tell and we think it became overloaded.
 
-<img src ="AI dungeon.JPG" width = 400>
+<img src ="AI dungeon.JPG">
 
 
 
