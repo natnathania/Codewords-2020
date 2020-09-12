@@ -8,6 +8,7 @@ As a whole class we joined AI Dungeon which is a an infinitely generated text ad
 
 <img src ="aidungeon.JPG">
 
+## WIP Brief 2
+This week we gathered outside of class to divide roles and break down part 3 from House of Leaves. We worked colloboratively through Google Docs and stayed connected by Facebook. As we did some research, we came across a video made by Evil Imp and I thought it was inspiring. We aimed to re-create part 3 as well as they did because their cinematography was amazing!
+Check them out [here!] (https://www.youtube.com/watch?v=xXc_9ikGkl0)
 
-
-## more Animal Crossing
