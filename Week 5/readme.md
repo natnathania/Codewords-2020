@@ -2,7 +2,7 @@
 Exciting start of this weeks class because we got to share what we've been working on for Brief 2. It was very really amazing on what people have created in the span of 4 weeks, so many great ones! One that stuck to me was the Minecraft group with the scene of Jhonny laying down on the bed. I'm sure this horror story is planted in my head now :D Now that we've created these re-readings, I think that it elevated the story of House of Leaves.
 
 <img src ="brief2.JPG">
-To review our rationale you can click [here](https://wiip.co/THE-HORRORS-OF-ANIMAL-CROSSING.b-MEgcptSZluo8jwq7Tsi/) 
+To review our rationale you can click [here](https://wiip.co/THE-HORRORS-OF-ANIMAL-CROSSING.b-MEgcptSZluo8jwq7Tsi/).
 
 
 ## Brief 3
@@ -18,7 +18,7 @@ Questioning the boundaries of space, and the unlimitless ephemerality in instanc
 Perception of space and it’s absence, using the analogy of mirror caused us to further contemplate the reality of this physical world we live in. Questioning if the mirror is portraying real life.
 
 Public space, private space, social space, family space
-Check out other students summaries [here](https://docs.google.com/presentation/d/1tF9j3J75aVpLWOs6R_vCNQty8WjL-_AfgO9TgyKLoq0/edit#slide=id.p)
+Check out other students summaries [here](https://docs.google.com/presentation/d/1tF9j3J75aVpLWOs6R_vCNQty8WjL-_AfgO9TgyKLoq0/edit#slide=id.p). 
 
 
 
