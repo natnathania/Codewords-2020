@@ -10,6 +10,7 @@ As we go deeper in learning how to use Github, Andy demonstrated how to add a fo
 ## Building Scenes
 We continued to work on our group assignment and started building scenes in one of our islands. The limitations on this game is that we couldnt build at the same time. Only the owner of the island could rearrange items. So we decided to work collaboratively by sending some items to the host island to borrow. Other issues came up as we tried to meet in one island such as getting kicked off the island due to terrible connection. 
 
-<img src = "father.jPG">
+<img src = "father.JPG">
+<img src = "bar.JPG">
 
 
