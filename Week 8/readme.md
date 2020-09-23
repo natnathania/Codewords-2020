@@ -4,4 +4,4 @@
 
 ## Wiggly Letters
 <img src = "wigglyletters.JPG"> 
-<img src = "heterotopias.JPG">
+<img src = "1.gif">
