@@ -3,5 +3,5 @@
 ## Finalised Paper Prototype
 
 ## Wiggly Letters
-<img src = "wigglyletters"> 
-<img src = "heterotopias">
+<img src = "wigglyletters.JPG"> 
+<img src = "heterotopias.JPG">
