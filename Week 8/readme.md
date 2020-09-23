@@ -3,4 +3,4 @@
 ## Finalised Paper Prototype
 
 ## Wiggly Letters
-<img src = "
+<img src = "wigglyletters"> 
