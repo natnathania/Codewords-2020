@@ -7,5 +7,5 @@ textToPoint: https://p5js.org/reference/#/p5.Font/textToPoints
 Translation: https://github.com/processing/p5.js/wiki/Processing-transition
 
 ## Typing...
-<img src = "wip.JPG">
+<img src = "week9wip.JPG">
 Ive been working on creating different canvases and displyaing text on each canvas. Since I want to use the keyTyped function, I tried to figure out how to a sentence would appear if the user types a letter.
