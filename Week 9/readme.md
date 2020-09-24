@@ -11,6 +11,7 @@ Translation: https://github.com/processing/p5.js/wiki/Processing-transition
 Ive been working on creating different canvases and displyaing text on each canvas. Since I want to use the keyTyped function, I tried to figure out how to a sentence would appear if the user types a letter.
 
 Code:
+
 let pg;
 let value = 0;
 var myText1 = ('In an unreal, virtual space');
