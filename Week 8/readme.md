@@ -7,5 +7,6 @@ When I pitched my idea to Andy and Karen, Karen mentioned how I would be able to
 
 ## Wiggly Letters
 <img src = "wigglyletters.JPG"> 
+To check it out on action click [here](https://natnathania.github.io/Codewords-2020/Processing/textWiggle_Week8/)
 <img src = "1.gif">
 
