@@ -9,6 +9,7 @@ Translation: https://github.com/processing/p5.js/wiki/Processing-transition
 ## Typing...
 <img src = "week9wip.JPG">
 Ive been working on creating different canvases and displyaing text on each canvas. Since I want to use the keyTyped function, I tried to figure out how a sentence would appear if the user types a letter.
+
 I've gathered the words and phrases of each letters that can be typed by the user. These words and phrases are linked to the idea of a utopia and heterotopia. So far the list is this:
 A – absence
 B – 
@@ -40,4 +41,4 @@ Z -
 Karen got the chance to help me figure out how to flip a canvas in p5.js. 
 
 ## Typeface
-For my final 
+Then I have considered the typeface that would be used for my final project. 
