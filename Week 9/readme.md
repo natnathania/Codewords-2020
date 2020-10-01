@@ -36,3 +36,8 @@ W –
 X – 
 Y – 
 Z - 
+
+Karen got the chance to help me figure out how to flip a canvas in p5.js. 
+
+## Typeface
+For my final 
