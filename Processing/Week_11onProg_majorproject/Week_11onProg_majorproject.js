@@ -1,3 +1,4 @@
+//updated
 var font;
 var wigglyLetters=[];
 function preload(){
@@ -32,8 +33,6 @@ function draw() {
   
   pgright.background(0);
   pgright.text (myText2, 200, pgright.height/2);
-  
-  //-----------------------------------
 
   pgleft.stroke(255,0,0);
   pgleft.textAlign(LEFT, CENTER);
@@ -42,7 +41,7 @@ function draw() {
   translate(width/2-50,0);
   scale(-0.5,1);
   
-  points=font.textToPoints(myText1, 0, height/2, 10, {sampleFactor: 30, simplifyThreshold: 0 });
+  points=font.textToPoints(myText1, 0, height/2, 5, {sampleFactor: 30, simplifyThreshold: 0 });
   for (let i = 0; i < points.length; i++) {
     p = points[i];
     wigglyLetters.push(new Wiggle (p.x, p.y, 255, '', 2));}
@@ -50,14 +49,13 @@ function draw() {
     bounds=font.textBounds(' '+myText1+ ' ' , 0, height/2, 10);
     console.log(myText1);
  
-  
     beginShape();
     translate(-bounds.x * width / bounds.w, -bounds.y * height / bounds.h);
   for (let i = 0; i < points.length; i++) {
     p = points[i];
     
   //wigglyLetters.push(new Wiggle (p.x, p.y, color, letter, speed));
-    pgleft.vertex( p.x * width / bounds.w + sin(5 * p.y / bounds.h + millis() / 1000) * width / 30, p.y * height / bounds.h);
+    pgleft.vertex( p.x * width / bounds.w + sin(15 * p.y / bounds.h + millis() / 800) * width / 20, p.y * height / bounds.h);
   }
  endShape(CLOSE);
  pop()
@@ -152,6 +150,7 @@ function keyTyped(){
 //    vertex( p.x * width / bounds.w + sin(5 * p.y / bounds.h + millis() / 1000) * width / 30, p.y * height / bounds.h);
 //  }
 //  pgleft.endShape(CLOSE);
+
 class Wiggle {
  constructor(x, y, size, letter, speed){
    this.x= x;
@@ -173,4 +172,5 @@ class Wiggle {
    text(this.letter, this.x, this.y);
  }
 }
+
 
