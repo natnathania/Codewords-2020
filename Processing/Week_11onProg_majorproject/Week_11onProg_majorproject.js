@@ -63,23 +63,23 @@ function draw() {
 }
 function keyTyped(){
   background(0);
-  if (key === 'u' ){//not working
+  if (key === 'u' ){
     myText1 = 'Utopias';
     myText2 = 'Utopias';
   }
-  else if (key === 'c'){ //  not working
+  else if (key === 'c'){ 
     myText1 = 'Counteraction';
     myText2 = 'Counteraction';
   }
-  else if (key === 'f'){ // not working
+  else if (key === 'f'){
     myText1 = 'First';
     myText2 = 'First';
   }
-  else if (key === 'e'){// not working
+  else if (key === 'e'){
     myText1 = 'Enables';
     myText2 = 'Enables';
   }
-  if (key === 'v' ){
+  else if (key === 'v' ){
     myText1 = 'Virtual space';
     myText2 = 'Virtual space';
   }
