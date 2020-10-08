@@ -76,10 +76,6 @@ function keyTyped(){
     myText1 = 'First';
     myText2 = 'First';
   }
-  else if (key === 'f'){ // the letter f not working/showing
-    myText1 = 'First';
-    myText2 = 'First';
-  }
   else if (key === 'e'){// not working
     myText1 = 'Enables';
     myText2 = 'Enables';
