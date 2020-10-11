@@ -1,44 +1,78 @@
 # Week 9 | Research
-
-mirroring: https://editor.p5js.org/kan352/sketches/BkMtGLIJx , https://editor.p5js.org/ly1210/sketches/HktdECdnQ
-examples of unreadable text: https://www.openprocessing.org/sketch/813395 , https://www.openprocessing.org/sketch/879647
+This week I started looking for inspiration on how I can express my concept. I first went to Open Processing and searched on the different possibilites of outcomes on typography. examples of unreadable text: https://www.openprocessing.org/sketch/813395 , https://www.openprocessing.org/sketch/879647
 blur: https://www.openprocessing.org/sketch/623979?fbclid=IwAR3rSg1jXTHEEQKTMbzbROrZbFevE4UwME4kAVov68YMnl3z9imw6uw8uOs
-textToPoint: https://p5js.org/reference/#/p5.Font/textToPoints
+
+Since Open Processing is written in Java, I would need to translate the functions into Javascript and Karen and Andy shared a great link that would help me do this. 
 Translation: https://github.com/processing/p5.js/wiki/Processing-transition
+
+As I keep on digging for inspiration, the p5js website had some sketch examples that were great.
+mirroring: https://editor.p5js.org/kan352/sketches/BkMtGLIJx , https://editor.p5js.org/ly1210/sketches/HktdECdnQ
+
+When
+textToPoint: https://p5js.org/reference/#/p5.Font/textToPoints
+
 
 ## Typing...
 <img src = "week9wip.JPG">
 Ive been working on creating different canvases and displyaing text on each canvas. Since I want to use the keyTyped function, I tried to figure out how a sentence would appear if the user types a letter.
 
 I've gathered the words and phrases of each letters that can be typed by the user. These words and phrases are linked to the idea of a utopia and heterotopia. So far the list is this:
+
 A – absence
-B – 
+
+B – Believe
+
 C – counteraction
-D – 
-E – external space
-F – functions
-G – glass
-H – heterotopias
-I – I see myself there where I am not
-J – joint experience
+
+D – Direct of inverted
+
+E – External space
+
+F – Functions
+
+G – Glass
+
+H – Heterotopias
+
+I – I see myself 
+
+J – Joint experience
+
 K – 
-L – look
-M - mirror
+
+L – Look
+
+M - Mirror
+
 N – No real place
-O – own visibility
-P – places
+
+O – Own visibility
+
+P – Placeless place
+
 Q – 
+
 R – reality
-S – shadow
-T – 
-U – utopias
-V – virtual space
+
+S – Shadow
+
+T – There where I am not
+
+U – Utopias
+
+V – Virtual space
+
 W – 
+
 X – 
+
 Y – 
+
 Z - 
+
 
 Karen got the chance to help me figure out how to flip a canvas in p5.js. 
 
 ## Typeface
 Then I have considered the typeface that would be used for my final project. 
+
