@@ -3,6 +3,7 @@ var wavyLetters=[];
 
 function preload(){
 font = loadFont ('data/MrsEavesOT-Roman.otf');
+song = loadSong ('data/Space.mp3')
 }
 
 var pg, pgleft, pgright,p;
@@ -16,6 +17,8 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   pgleft = createGraphics(width/2, height);
   pgright = createGraphics(width/2, height);
+  //song.play();
+  //song.loop();
   pgright.textSize(30);
   
   pgleft.background(0);
