@@ -174,7 +174,7 @@ function keyTyped(){
 
 }
 
-
+//code helped from Karen
 class Wavy {
  constructor(x, y, size, letter, speed){
    this.x= x;
