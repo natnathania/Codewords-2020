@@ -6,4 +6,4 @@
 
 [On Progress Code](https://natnathania.github.io/Codewords-2020/Processing/onProgress_majorproject/)
 
-https://natnathania.github.io/Codewords-2020/Processing/Week_12_majorproject/
+https://natnathania.github.io/Codewords-2020/Week_12/Mirage/
