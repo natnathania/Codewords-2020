@@ -75,4 +75,5 @@ Z -
 ## Typeface
 Then in considering the typeface for my project, I wanted an elegant but also creepy kind of typeface. The final decision is Mrs. Eaves as it works really well when the words starts moving.
 
+<img src = "w9wavy.JPG" width=600>
 
