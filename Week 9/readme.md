@@ -1,7 +1,7 @@
 # Week 9 | Research
 This week I started looking for inspiration on how I can express my concept. I first went to Open Processing and searched on the different possibilites of outcomes on typography. These are few examples I found on unreadable text (distortion and blur):
 
-<img src = "w9particles.JPG">
+<img src = "w9particles.JPG" width=600>
 <img src = "w9lines.JPG" width=600>
 <img src = "w9blur.JPG" width=600>
 
