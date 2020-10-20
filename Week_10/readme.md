@@ -4,5 +4,6 @@ This week we had a short and quick presentation of our code-in-progress. This wa
 
 <img src = "week 10 milestone">
 
+My code with the keyTyped function and flipped canvas works smoothly, however some letters didnt work for some reason. To go to another step of coding, I am trying to distort the text with the textToPoint function however since I am using multiple canvases, I couldnt figure out how to do it. Went through multiple trials but my sktech wouldnt work. I got to a point where I had points around my text and from here I assume I could move these points to create the wavy movement.
 
-2. We revisited the demo sketches from the semester which are available on my gitHub and unpacked a few issues that were still unclear. You're encouraged to go back to these 'basics' if you are feeling unsure about how to move forward with the more complex sketches.
+<img src = "w10redpoints.JPG">
