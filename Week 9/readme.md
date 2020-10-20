@@ -1,12 +1,17 @@
 # Week 9 | Research
-This week I started looking for inspiration on how I can express my concept. I first went to Open Processing and searched on the different possibilites of outcomes on typography. examples of unreadable text: https://www.openprocessing.org/sketch/813395 , https://www.openprocessing.org/sketch/879647
-blur: https://www.openprocessing.org/sketch/623979?fbclid=IwAR3rSg1jXTHEEQKTMbzbROrZbFevE4UwME4kAVov68YMnl3z9imw6uw8uOs
+This week I started looking for inspiration on how I can express my concept. I first went to Open Processing and searched on the different possibilites of outcomes on typography. These are few examples I found on unreadable text (distortion and blur):
+
+<img src = "">
+<img src = "">
+<img src = "">
 
 Since Open Processing is written in Java, I would need to translate the functions into Javascript and Karen and Andy shared a great link that would help me do this. 
-Translation: https://github.com/processing/p5.js/wiki/Processing-transition
+[Translation]https://github.com/processing/p5.js/wiki/Processing-transition 
 
-As I keep on digging for inspiration, the p5js website had some sketch examples that were great.
-mirroring: https://editor.p5js.org/kan352/sketches/BkMtGLIJx , https://editor.p5js.org/ly1210/sketches/HktdECdnQ
+As I keep on digging for inspiration, the p5js website had some sketch examples that were great on mirroring and flipped canvases. This helped me figure out how to flip and canvas by scaling it.
+
+<img src = ""> 
+<img src = "">
 
 When
 textToPoint: https://p5js.org/reference/#/p5.Font/textToPoints
