@@ -20,8 +20,9 @@ His project called EX8 is generative typographic experiments, based on a simulat
 
 <img src = "patrik.gif">
 
-Jessica In
+[Jessica In](https://www.jessicain.net/) is a female creative coder that I found in Instagram. Originally from Melbourne Australia she is also an architect, designer, with experience as both practitioner and university educator. She is currently pursuing her interests in drawing, robotics and machine learning for interactive design explorations. Most of her work are visual experiments on generative design and also on experiments on typography. Her designs reminded me of the artists that I was exposed to last year in Slave to the Algorithm. She uses Processing, Python and Blender to create some of her work.
 
-asdf
+<img src = "jess2.gif">
 
 <img src = "jessica.gif">
+This work of hers is similar to the things we are doing in class. It looks like she plays around with the textToPoint function or the geomerative library. Her work are amazing!
