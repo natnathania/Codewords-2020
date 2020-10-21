@@ -7,6 +7,11 @@ Thankfully Karen helped my disect the existing sketch that I worked on and got t
 
 <img src = "w11progress.jpeg">
 
+## Typeface
+Then in considering the typeface for my project, I wanted an elegant but also creepy kind of typeface. The final decision is Mrs. Eaves as it works really well when the words starts moving.
+
+<img src = "w9wavy.JPG" width=600>
+
 This week was dedicated to individual and small-group discussions about your major project. 
 
 We also started developing our designer's statement
