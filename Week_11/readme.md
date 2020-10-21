@@ -2,20 +2,19 @@
 
 Before class I got the chance to ask some help from Jamie to further develop my project. Last week I had trouble with distorting my text with the textToPoint function on only my left canvas. Jamie helped me understand the function within my sketch. It was more complicated than I thought since I had multiple canvases working at the same time. We got to stage where the distorting on the left canvas works. However it only works once, meaning the next key typed wont work, leaving a black screen. This was a road block for me.
 
-Thankfully Karen helped my disect the existing sketch that I worked on and got the distortion to work on every key typed! (you are amazing Karen!)
+Thankfully Karen helped my disect the existing sketch that I worked on and got the distortion to work! (you are amazing Karen!) 
 [On Progress Code](https://natnathania.github.io/Codewords-2020/Processing/Week_11onProg_majorproject/)
 
 <img src = "w11progress.jpeg" width=800>
 
+In class Andy gave some feedback to "iron out the kinks". There were small bugs to fix such as some letters associated to a phrase in the keyTyped function wouldn’t work. It turned out there was a typo (as always :/). Also, the position of the text on the left canvas kept on changing throughout different phrases. 
+
+Within this week I further refined the sketch by controlling the the vertex function. This lets me adjust the speed and the amount of waves it would make. Another change I made was how much trail effect I wanted by changing the amount of sampleFactor on the textToPoint function.
+
 ## Typeface
-Then in considering the typeface for my project, I wanted an elegant but also creepy kind of typeface. The final decision is Mrs. Eaves as it works really well when the words starts moving.
+Then in considering the typeface for my project, I wanted an elegant but also creepy kind of typeface. The final decision is Mrs. Eaves as it works really well when the text starts moving.
 
 <img src = "w11wavy.JPG" width=600>
-
-In class Andy some feedback This week was dedicated to individual and small-group discussions about your major project. 
-
-We also started developing our designer's statement
-
 
 ## Creative Coders | Patrik Huebner | Jessica In  
 I found 2 creative coders who are doing similar things to me and projects that works with typography.
