@@ -5,7 +5,12 @@ Before class I got the chance to ask some help from Jamie to further develop my 
 Thankfully Karen helped my disect the existing sketch that I worked on and got the distortion to work on every key typed! (you are amazing Karen!)
 [On Progress Code](https://natnathania.github.io/Codewords-2020/Processing/Week_11onProg_majorproject/)
 
-<img src = "w11progress.jpeg" width=1000>
+<img src = "w11progress.jpeg" width=800>
+
+## Typeface
+Then in considering the typeface for my project, I wanted an elegant but also creepy kind of typeface. The final decision is Mrs. Eaves as it works really well when the words starts moving.
+
+<img src = "w9wavy.JPG" width=600>
 
 In class Andy some feedback This week was dedicated to individual and small-group discussions about your major project. 
 
