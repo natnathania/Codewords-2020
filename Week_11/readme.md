@@ -10,7 +10,7 @@ Thankfully Karen helped my disect the existing sketch that I worked on and got t
 ## Typeface
 Then in considering the typeface for my project, I wanted an elegant but also creepy kind of typeface. The final decision is Mrs. Eaves as it works really well when the words starts moving.
 
-<img src = "w9wavy.JPG" width=600>
+<img src = "w11wavy.JPG" width=600>
 
 In class Andy some feedback This week was dedicated to individual and small-group discussions about your major project. 
 
