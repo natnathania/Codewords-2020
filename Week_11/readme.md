@@ -4,7 +4,7 @@ Before class I got the chance to ask some help from Jamie to further develop my 
 
 Thankfully Karen helped my disect the existing sketch that I worked on.
 
-<img src = "w11progress.jpeg"
+<img src = "w11progress.jpeg">
 
 ## Creative Coders
 ## Jessica In
