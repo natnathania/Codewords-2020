@@ -10,3 +10,6 @@ In this week's class we started by noting the piece of critical theory or text w
 
 ## Large Blocks of Text
 We got to do some live coding session with Karen in the second half of the day. This time Karen introduced us on how to insert or preload large blocks of text in Processing.
+
+[Back <-]()
+[Next ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%207/readme.md) 
