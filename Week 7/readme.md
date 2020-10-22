@@ -24,5 +24,7 @@ ELSE text will stay the same
 
 <img src ="prototype 2.gif">
 
+#### [<- Week 6](https://github.com/natnathania/Codewords-2020/blob/master/Week%206/readme.md)
+#### [Week 8 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%208/readme.md)
 
 
