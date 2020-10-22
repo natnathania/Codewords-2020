@@ -16,7 +16,7 @@ Codewords has been such a great studio. Both Andy and Karen passionately taught 
 
 As we started this studio the first few weeks, we touched on experiencing virtual spaces since we cant physically meet each other as well. Once we jumped on this I felt like this was going to be a great studio and especially Mini Melbourne and Animal Crossing was my favorite! Not only was this a game for our learning experience, but it was also a great way to bond with each other even when we are apart.
 
-Week by week we kept on going further into the relationship between code and words and every class I would always learn something new. With having very little amount of skills in p5.js, I would always be amazed with the amount of possibilities we could make through this platform. There were many roadblocks and challenges that I went through, making me feel frustrated at times, but at the end it was worth it. Now that I've been exposed on the countless possibilities of reading,
+Week by week we kept on going further into the relationship between code and words and every class I would always learn something new. With having very little amount of skills in p5.js, I would always be amazed with the amount of possibilities we could make through this platform. There were many roadblocks and challenges that I went through, making me feel frustrated at times, but at the end it was worth it. The countless possibilities of the different ways of reading digitally is something that I've never thought about.
 
 From Minecraft, Animal Crossing, 
 
