@@ -3,7 +3,7 @@ The night before our last class, I had the time to think about what I would name
 
 I also ask for some feedback from friends. They gave me assuring statements about my work and said it was 'groovy'. Also as I was writing my statement I felt that time went by so quickly and we're already in week 12! So bittersweet!
 
-## | Soft Launch
+## Soft Launch
 In this week we dedicated the first half of the class in making materials we needed for our major project showcase, such as animated GIFs, hero image and statements. Once we gathered all of them we had our soft launch on our major project, and it was really nice to see what everybody had done. So much amazing work and talented creative coders in this bunch. Many of us started from the basics and now they seem to be flying off the roofs with their skills! So proud of all them :) To visit our showcase website click [here!](https://simandy.github.io/codewords/) 
 
 View my final project [here](https://natnathania.github.io/Codewords-2020/Week_12/Mirage/)
