@@ -18,6 +18,8 @@ As we started this studio the first few weeks, we touched on experiencing virtua
 
 Week by week we kept on going further into the relationship between code and words and every class I would always learn something new. With having very little amount of skills in p5.js, I would always be amazed with the amount of possibilities we could make through this platform. There were many roadblocks and challenges that I went through, making me feel frustrated at times, but at the end it was worth it. The countless possibilities of the different ways of reading digitally is something that I've never thought about.
 
-From Minecraft, Animal Crossing, 
+It was such a pleasure to be able to be part of this group and also in our wonderful conversations on modular typogaphy, reading, the horrors of AI-dungeon, Minecraft and Animal crossing. Special thanks to Karen who live-coded with us throughout this semester and Andy who always supported each and every student. I do hope in the future we can keep on staying in touch and talk about more weird stuff.
 
- wonderful conversations on modular typography, reading and technology, self-destructing AI-dungeon stories, Minecraft mayhem, animal crossing horror, lots of live coding, and so much wonderful weirdness. 
+Love,
+Natasha
+
