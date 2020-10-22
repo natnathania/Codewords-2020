@@ -14,3 +14,5 @@ We continued to work on our group assignment and continued building scenes in on
 <img src = "bar.jpg">
 
 
+#### [Week 3 <-](https://github.com/natnathania/Codewords-2020/blob/master/Week%203/readme.md)
+#### [Week 4 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%205/readme.md)
