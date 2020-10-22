@@ -1,5 +1,5 @@
 # Week 5 | Grab Your Popcorn
-Exciting start of this weeks class because we got to share what we've been working on for Brief 2. It was very really amazing on what people have created in the span of 4 weeks, so many great ones! One that stuck to me was the Minecraft group with the scene of Jhonny laying down on the bed. I'm sure this horror story is planted in my head now :D Now that we've created these re-readings, I think that it elevated the story of House of Leaves.
+Exciting start of this weeks class because we got to share what we've been working on for Brief 2. It was very really amazing on what people have created in the span of 4 weeks, so many great ones! One that stuck to me was the Minecraft group with the scene of Jhonny laying down on the bed. I'm sure this horror story is planted in my head now :D Now that we've created these re-readings, I think that it elevated the story of House of Leaves. Visit a compilation of all our work [here](https://www.youtube.com/watch?v=uiOQQN-uh4c&list=PLUcOibqqi1kyBP6b0wt7EsPpsiJ-UzEaH) in Youtube.
 
 <img src ="brief2.JPG">
 
