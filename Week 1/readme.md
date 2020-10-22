@@ -15,4 +15,4 @@ We then got to explore on creating our own initials by forming shapes or lines. 
 
 <img src="initial N.JPG" width="600">
 
-#### [Week 2 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%202/readme.md)
+#### [Week 2 ->](https://natnathania.github.io/Codewords-2020/Week%202/)
