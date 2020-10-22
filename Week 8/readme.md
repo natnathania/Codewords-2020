@@ -10,3 +10,5 @@ When I pitched my idea to Andy and Karen, Karen mentioned how I would be able to
 
 <img src = "1.gif">
 
+#### [<- Week 7](https://github.com/natnathania/Codewords-2020/blob/master/Week%207/readme.md)
+#### [Week 9 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%209/readme.md)
