@@ -3,10 +3,9 @@ This week we had a short and quick presentation of our code-in-progress. This wa
 
 <img src = "week 10 milestone">
 
-
 <img src = "w10redpoints.JPG">
 
 My code with the keyTyped function and flipped canvas works smoothly, however some letters didnt work for some reason. To go to another step of coding, I am trying to distort the text with the textToPoint function however since I am using multiple canvases, I couldnt figure out how to do it. Went through multiple trials but the textToPoint function wouldnt work. However, I got to a point where I had points around my text and from here I could move these points to create the wavy movement.
 
-
-
+#### [<- Week 9](https://github.com/natnathania/Codewords-2020/blob/master/Week%209/readme.md)
+#### [Week 11 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week_11/readme.md)
