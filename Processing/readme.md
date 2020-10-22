@@ -10,6 +10,8 @@
 
 [Preload Sound](https://natnathania.github.io/Codewords-2020/Processing/soundtest_week_7/)
 
+[Wiggly Letters](https://natnathania.github.io/Codewords-2020/Processing/textWiggle_Week8/) 
+
 [On Progress Code](https://natnathania.github.io/Codewords-2020/Processing/Week_11onProg_majorproject/)
 
 [Mirage](https://natnathania.github.io/Codewords-2020/Week_12/Mirage/) 
