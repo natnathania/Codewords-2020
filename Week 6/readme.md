@@ -9,8 +9,9 @@ In this week's class we started by noting the piece of critical theory or text w
 "The mirror is, after all, a utopia, since it is a placeless place. In the mirror, i see myself there where I am not, in an unreal, virtual space that opens up behind the surface;i am over there, there where I am not, a sort of shadow that gives my own visibility to myself, that enables me to see myself there where i am absent:such is the utopia of the mirror”. 
 
 ## Large Blocks of Text
-We got to do some live coding session with Karen in the second half of the day. This time Karen introduced us on how to insert or [preload large blocks of text](https://natnathania.github.io/Codewords-2020/Processing/long_text/)in Processing.
+We got to do some live coding session with Karen in the second half of the day. This time Karen introduced us on how to insert or [preload large blocks of text](https://natnathania.github.io/Codewords-2020/Processing/long_text/) in Processing.
 
 
-[Back <-](https://github.com/natnathania/Codewords-2020/blob/master/Week%205/readme.md)
-[Next ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%207/readme.md) 
+#### [Week 5 <-](https://github.com/natnathania/Codewords-2020/blob/master/Week%205/readme.md)
+
+#### [Week 7 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%207/readme.md) 
