@@ -16,4 +16,3 @@ Welcome to my documentation on my learnings, progress and reflection throughout 
 ### [Week 12](https://natnathania.github.io/Codewords-2020/Week_12/)
 ### [Processing](https://natnathania.github.io/Codewords-2020/Processing/)
 ### [Major Project | Mirage](https://natnathania.github.io/Codewords-2020/Week_12/Mirage/)
-
