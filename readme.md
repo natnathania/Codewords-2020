@@ -2,7 +2,7 @@
 
 Welcome to my documentation on my learnings, progress and reflection throughout the studio CodeWords.
 
-### [Week 1](https://natnathania.github.io/Codewords-2020/Week 1/)
+### [Week 1](https://natnathania.github.io/Codewords-2020/Week1/)
 ### [Week 2](https://natnathania.github.io/Codewords-2020/Week 2/)
 ### [Week 3](https://natnathania.github.io/Codewords-2020/Week 3/)
 ### [Week 4](https://natnathania.github.io/Codewords-2020/Week 4/)
