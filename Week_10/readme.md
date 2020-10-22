@@ -7,5 +7,11 @@ This week we had a short and quick presentation of our code-in-progress. This wa
 
 My code with the keyTyped function and flipped canvas works smoothly, however some letters didnt work for some reason. To go to another step of coding, I am trying to distort the text with the textToPoint function however since I am using multiple canvases, I couldnt figure out how to do it. Went through multiple trials but the textToPoint function wouldnt work. However, I got to a point where I had points around my text and from here I could move these points to create the wavy movement.
 
+## User Experience
+Later through the week I considered the users experience as I figured it wasnt clear for them to know that they need to do. Since I am using the keyTyped function, I created a landing page with the instructions, "type any key".
+
+<img src="instructions"> 
+
+
 #### [<- Week 9](https://github.com/natnathania/Codewords-2020/blob/master/Week%209/readme.md)
 #### [Week 11 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week_11/readme.md)
