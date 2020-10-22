@@ -11,9 +11,8 @@ Due to this pandemic, we arent able to gather physically. However we discussed a
 The virtual worlds opended many different possibilites on how our class would explore Brief 2.
 
 ## p5.js
-We then got
-
-
-
+We then got to explore on creating our own initials by forming shapes or lines. This one I implemented the mouseX mouse Y function to change the background and the shape color.
 
 <img src="initial N.JPG" width="600">
+
+#### [Week 2 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%202/readme.md)
