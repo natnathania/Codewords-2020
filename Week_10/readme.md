@@ -10,7 +10,7 @@ My code with the keyTyped function and flipped canvas works smoothly, however so
 ## User Experience
 Later through the week I considered the users experience as I figured it wasnt clear for them to know that they need to do. Since I am using the keyTyped function, I created a landing page with the instructions, "type any key".
 
-<img src="instructions"> 
+<img src="instructions.JPG"> 
 
 
 #### [<- Week 9](https://github.com/natnathania/Codewords-2020/blob/master/Week%209/readme.md)
