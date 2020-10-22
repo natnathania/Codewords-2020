@@ -30,7 +30,7 @@ His project called EX8 is generative typographic experiments, based on a simulat
 <img src = "jess2.gif">
 
 <img src = "jessica.gif">
-This work of hers is similar to the things we are doing in class. It looks like she plays around with the textToPoint function or the geomerative library. Her work are amazing!
+This work of hers is similar to the things I've explored on distortion of text. It looks like she plays around with the textToPoint function or the geomerative library. Her work are amazing!
 
 #### [<- Week 10](https://github.com/natnathania/Codewords-2020/blob/master/Week_10/readme.md)
 #### [Week 12 ->](https://github.com/natnathania/Codewords-2020/tree/master/Week_12)
