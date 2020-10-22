@@ -18,5 +18,6 @@ Perception of space and it’s absence, using the analogy of mirror caused us to
 Public space, private space, social space, family space
 Check out other students summaries [here](https://docs.google.com/presentation/d/1tF9j3J75aVpLWOs6R_vCNQty8WjL-_AfgO9TgyKLoq0/edit#slide=id.p). 
 
-
+#### [<- Week 4](https://github.com/natnathania/Codewords-2020/blob/master/Week%204/readme.md) 
+#### [Week 6 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%206/readme.md) 
 
