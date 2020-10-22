@@ -1,6 +1,6 @@
 # Welcome to CodeWords 2020
 
-Welcome to my documentation on my learnings, progress and reflection throughout the studio CodeWords.
+Hello and welcome to my Studio Knowledge Object respiratory. It contains all of my learnings, progress and reflection throughout the studio CodeWords, run by Andy Simionato and Karen ann Donnachie!
 
 ### [Week 1](https://natnathania.github.io/Codewords-2020/Week%201/)
 ### [Week 2](https://natnathania.github.io/Codewords-2020/Week%202/)
