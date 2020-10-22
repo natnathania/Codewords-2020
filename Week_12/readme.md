@@ -20,4 +20,4 @@ Week by week we kept on going further into the relationship between code and wor
 
 From Minecraft, Animal Crossing, 
 
-For now we wanted to extend our warm thanks for all your work and the wonderful conversations on modular typography, reading and technology, self-destructing AI-dungeon stories, Minecraft mayhem, animal crossing horror, lots of live coding, and so much wonderful weirdness. 
+ wonderful conversations on modular typography, reading and technology, self-destructing AI-dungeon stories, Minecraft mayhem, animal crossing horror, lots of live coding, and so much wonderful weirdness. 
