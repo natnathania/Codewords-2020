@@ -14,9 +14,9 @@ View my final project [here](https://natnathania.github.io/Codewords-2020/Week_1
 ## Reflection
 Codewords has been such a great studio. Both Andy and Karen passionately taught us different ways of how we read and to code words. I was always scared of coding again since Slave to the Algorithm studio last year. Even though it was a great experience, it made me feel overwhelmed. However I didnt want to give up and I think coding is the future of design, and thus I decided that I should keep on learning about it. 
 
-As we started this studio the first few weeks, we touched on experiencing virtual spaces since we cant physically meet each other as well. Once we jumped on this I felt like this was going to be a good studio and especially Mini Melbourne and Animal Crossing was my favorite!
+As we started this studio the first few weeks, we touched on experiencing virtual spaces since we cant physically meet each other as well. Once we jumped on this I felt like this was going to be a great studio and especially Mini Melbourne and Animal Crossing was my favorite! Not only was this a game for our learning experience, but it was also a great way to bond with each other even when we are apart.
 
-The way I see digital text would be different now especially because we have dug into the relationship between code and words. 
+Week by week we kept on going further into the relationship between code and words and every class I would always learn something new. With having very little amount of skills in p5.js, I would always be amazed with the amount of possibilities we could make through this platform. There were many roadblocks and challenges that I went through, making me feel frustrated at times, but at the end it was worth it. Now that I've been exposed on the countless possibilities of reading,
 
 From Minecraft, Animal Crossing, 
 
