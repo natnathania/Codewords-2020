@@ -12,6 +12,12 @@ View my final project [here](https://natnathania.github.io/Codewords-2020/Week_1
 
 
 ## Reflection
+Codewords has been such a great studio. Both Andy and Karen passionately taught us different ways of reading and to code words. I was always scared of coding again since Slave to the Algorithm studio last year. Even though it was a great experience, it made me feel overwhelmed. However I didnt want to give up and I think coding is the future of design, and thus I decided that I should keep on learning about it. 
 
+As we started this studio the first few weeks, we touched on experiencing virtual spaces since we cant physically meet each other. 
 
+The relationship between code and words will always be interesting for me. 
 
+From Minecraft, Animal Crossing, 
+
+For now we wanted to extend our warm thanks for all your work and the wonderful conversations on modular typography, reading and technology, self-destructing AI-dungeon stories, Minecraft mayhem, animal crossing horror, lots of live coding, and so much wonderful weirdness. 
