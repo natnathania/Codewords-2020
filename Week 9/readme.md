@@ -72,5 +72,6 @@ Y – You and I
 
 Z - 
 
-
+#### [<- Week 8](https://github.com/natnathania/Codewords-2020/blob/master/Week%208/readme.md)
+#### [Week 10 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week_10/readme.md)
 
