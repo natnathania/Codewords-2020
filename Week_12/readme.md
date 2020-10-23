@@ -26,4 +26,4 @@ It was such a pleasure to be able to be part of this group and also in our wonde
 Love,
 Natasha
 
-#### [<- Menu](https://github.com/natnathania/Codewords-2020)
+#### [<- Menu](https://natnathania.github.io/Codewords-2020/)
