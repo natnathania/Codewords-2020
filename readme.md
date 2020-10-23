@@ -2,6 +2,8 @@
 
 Hello and welcome to my Studio Knowledge Object respiratory. It contains all of my learnings, progress and reflection throughout the studio CodeWords, run by Andy Simionato and Karen ann Donnachie!
 
+I have organised this SKO weekly, with an additional folder of my processing sketches.
+
 ### [Week 1](https://natnathania.github.io/Codewords-2020/Week%201/)
 ### [Week 2](https://natnathania.github.io/Codewords-2020/Week%202/)
 ### [Week 3](https://natnathania.github.io/Codewords-2020/Week%203/)
