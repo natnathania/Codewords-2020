@@ -13,5 +13,5 @@ Later through the week I considered the users experience as I figured it wasnt c
 <img src="instructions.JPG"> 
 
 
-#### [<- Week 9](https://github.com/natnathania/Codewords-2020/blob/master/Week%209/readme.md)
-#### [Week 11 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week_11/readme.md)
+#### [<- Week 9](https://natnathania.github.io/Codewords-2020/Week%209/)
+#### [Week 11 ->](https://natnathania.github.io/Codewords-2020/Week_11/)
