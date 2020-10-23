@@ -18,6 +18,6 @@ As a homework we had the chance to choose another students initials that they ma
 
 <img src="jamie's p5js.JPG" width = 400>
 
-#### [<- Week 1 ](https://github.com/natnathania/Codewords-2020/blob/master/Week%201/readme.md)
+#### [<- Week 1 ](https://natnathania.github.io/Codewords-2020/Week%201/)
 
-#### [Week 3 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%203/readme.md)
+#### [Week 3 ->](https://natnathania.github.io/Codewords-2020/Week%203/)
