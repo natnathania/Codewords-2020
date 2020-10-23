@@ -14,6 +14,6 @@ In this week's class we started by noting the piece of critical theory or text w
 We got to do some live coding session with Karen in the second half of the day. This time Karen introduced us on how to insert or [preload large blocks of text](https://natnathania.github.io/Codewords-2020/Processing/long_text/) in Processing. When Karen told us we could do this I was relieved because I thought we had to create every alphabet from shapes for our major project.
 
 
-#### [<- Week 5](https://github.com/natnathania/Codewords-2020/blob/master/Week%205/readme.md)
+#### [<- Week 5](https://natnathania.github.io/Codewords-2020/Week%205/)
 
-#### [Week 7 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%207/readme.md) 
+#### [Week 7 ->](https://natnathania.github.io/Codewords-2020/Week%207/) 
