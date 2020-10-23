@@ -12,5 +12,5 @@ When I pitched my idea to Andy and Karen, Karen mentioned how I would be able to
 
 In our live-coding session with Karen, we got introduced in calling a class within our sketch. How I understood what a class is, a class is like a bucket where we can control individual letters in that bucket. I was quite confused how to write a class because it got pretty complicated for me, but Karen helped explain to us a little bit more and it was another milestone that we went through. 
 
-#### [<- Week 7](https://github.com/natnathania/Codewords-2020/blob/master/Week%207/readme.md)
-#### [Week 9 ->](https://github.com/natnathania/Codewords-2020/blob/master/Week%209/readme.md)
+#### [<- Week 7](https://natnathania.github.io/Codewords-2020/Week%207/)
+#### [Week 9 ->](https://natnathania.github.io/Codewords-2020/Week%209/)
